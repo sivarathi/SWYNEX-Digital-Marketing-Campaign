@@ -57,4 +57,7 @@ The campaign is expected to improve Myntra's online visibility, increase engagem
 The Myntra Festive Fashion Sale campaign combines social media marketing, influencer promotion, engaging content, and performance measurement to reach young customers effectively. The campaign provides a structured approach to increasing brand awareness and digital engagement.
 
 ## Internship Task
-This digital marketing campaign was prepared as part of the SWYNEX Technologies internship.
+This digital marketing campaign was prepared as part of the SWYNEX Technologies internship
+## 10. Internship Work Summary
+
+As part of the SWYNEX Technologies internship, I worked on digital marketing activities including brand and competitor research, content marketing strategy, and the development of this complete digital marketing campaign. The internship helped me understand practical digital marketing concepts such as audience targeting, content planning, social media promotion, campaign budgeting, KPI tracking, and performance measurement.
